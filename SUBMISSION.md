@@ -4,7 +4,7 @@
 **Assignment:** Capstone — Ship It: Your First Production AI Product  
 **Author:** Moloy Krishna Paul (`iMoloy`)  
 **Repository:** [https://github.com/iMoloy/capstone-final](https://github.com/iMoloy/capstone-final)  
-**Live URL:** [https://briefcraft-ai.vercel.app](https://briefcraft-ai.vercel.app) *(or your deployed Vercel URL)*  
+**Live URL:** [https://capstone-final-lyart.vercel.app/](https://capstone-final-lyart.vercel.app/)  
 **Date:** November 2026
 
 ---
@@ -17,7 +17,7 @@ Creating high-performing digital content requires rigorous planning, yet solo cr
 
 ## 2. Live Application & Deliverables
 
-- **Live Deployed URL:** `https://briefcraft-ai.vercel.app` *(deployable directly via Vercel with zero config)*
+- **Live Deployed URL:** [https://capstone-final-lyart.vercel.app/](https://capstone-final-lyart.vercel.app/)
 - **GitHub Repository:** `https://github.com/iMoloy/capstone-final`
 - **Primary AI Provider:** Claude 3.5 Haiku (`claude-3-5-haiku-20241022`) via `@ai-sdk/anthropic`
 - **Fallback Capability:** Built-in zero-latency simulated content strategist (activates if no API key is configured or upstream API fails)

@@ -9,6 +9,7 @@
 
 > **FlyRank Capstone Assignment:** "Ship It — Your First Production AI Product"  
 > **Author:** Moloy Krishna Paul (`iMoloy`)  
+> **Live URL:** [https://capstone-final-lyart.vercel.app/](https://capstone-final-lyart.vercel.app/)  
 > **Repository:** [https://github.com/iMoloy/capstone-final](https://github.com/iMoloy/capstone-final)
 
 ---
